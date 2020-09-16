@@ -21,3 +21,10 @@ indirmek istediğiniz program dizi oyun veya filmin torrent dosyasını seçin
 ardından aç diyerek indirmeyi başlatın sizden indirme konumu soracaktır yeri seçin ve onaylayın
 
 artık tek yapmanız gereken inmesini beklemek.
+
+# Altyazılar
+
+Türkçe altyazı dosyaları için
+
+<a href="http://bc.vc/FPLNjAP" target="_blank" >Altyazılar</a>
+

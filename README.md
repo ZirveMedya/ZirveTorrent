@@ -10,7 +10,7 @@ Selam dostlarım Güncel git depomuza hoşgeldiniz burda torrent linklerimiz pay
 
 Aşağıda ki linkden sisteminize uygun olan programı indirin
 
-https://transmissionbt.com/download/
+<a href="https://transmissionbt.com/download/" target="_blank" style="color:50px;">Tıklayın</a>
 
 ardından indirdiğiniz programı kurun ve açın sonrasında sol üst köşeden
 
@@ -21,5 +21,3 @@ indirmek istediğiniz program dizi oyun veya filmin torrent dosyasını seçin
 ardından aç diyerek indirmeyi başlatın sizden indirme konumu soracaktır yeri seçin ve onaylayın
 
 artık tek yapmanız gereken inmesini beklemek.
-
-<a href="http://example.com/" target="_blank">Hello, world!</a>

@@ -21,3 +21,5 @@ indirmek istediğiniz program dizi oyun veya filmin torrent dosyasını seçin
 ardından aç diyerek indirmeyi başlatın sizden indirme konumu soracaktır yeri seçin ve onaylayın
 
 artık tek yapmanız gereken inmesini beklemek.
+
+<a href="http://example.com/" target="_blank">Hello, world!</a>

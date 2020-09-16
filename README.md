@@ -10,7 +10,7 @@ Selam dostlarım Güncel git depomuza hoşgeldiniz burda torrent linklerimiz pay
 
 Aşağıda ki linkden sisteminize uygun olan programı indirin
 
-<a href="https://transmissionbt.com/download/" target="_blank" style="color:50px;">Tıklayın</a>
+<a href="https://transmissionbt.com/download/" target="_blank" >Tıklayın</a>
 
 ardından indirdiğiniz programı kurun ve açın sonrasında sol üst köşeden
 
